@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohannafde&label=Profile%20views&color=0e75b6&style=flat" alt="rohannafde" /> </p>
 
-- 🔭 I’m currently working on **a Programmable Device**
-
-- 🌱 I’m currently learning **Frontend**
-
 - 📫 How to reach me **210070068@iitb.ac.in**
 
 <h3 align="left">Connect with me:</h3>
