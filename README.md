@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohannafde&label=Profile%20views&color=0e75b6&style=flat" alt="rohannafde" /> </p>
 
-<h2 align="left">MA 109 Tutorial Stuff </h2>
+<h3 align="left">MA 109 Tutorial Stuff </h3>
 Recap slides - https://github.com/RohanNafde/MA109
 
+<h3 align="left">Connect with me </h3>
 - 📫 How to reach me **210070068@iitb.ac.in**
 
 <h3 align="left">Languages and Tools:</h3>
